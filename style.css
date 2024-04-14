@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.headingg {
+    background-color: #7F3FBF;
+    color: white;
+    height: 4rem;
+    line-height: 3rem;
+}
+
+.timee {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 7rem;
+}
+
+.x {
+    padding: 1rem;
+    border: 2px solid black;
+    width: 10rem;
+    height: 10rem;
+    line-height: 10rem;
+    font-size: 7rem;
+}
+
+#gene {
+    padding: 2rem;
+    border-radius: 5rem;
+    background-color: #7F3FBF;
+    color: white;
+    font-size: large;
+    border: transparent;
+}
+
+#gene:hover {
+    box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #7F3FBF, 0 0 40px #7F3FBF, 0 0 50px #7F3FBF;
+    cursor: pointer;
+
+}
+
+p {
+    line-height: 12rem;
+    font-size: 5rem;
+}
